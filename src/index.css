@@ -1,0 +1,14 @@
+body{
+    padding: 20px;
+ 
+}
+
+button{
+    margin-right: 10px;
+  
+}
+
+/* los Lnik tambien accedemos por a en css */
+a{
+    margin-right: 15px;
+}
